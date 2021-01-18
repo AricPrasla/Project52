@@ -1,0 +1,31 @@
+body {
+    background-color: paleturquoise;
+}
+.grid{
+display:flex;
+justify-content:left;
+}
+.item{
+    display:flex;
+    align-items:baseline;
+}
+.Mouse{
+    background-color: darkblue;
+}
+body{
+    margin: 0px;
+    background-color:deeppink;
+}
+.grid img{
+    border: 2px solid  rebeccapurple;
+    border-radius: 50px;
+}
+a:visited{
+    color:springgreen;
+}
+a:hover{
+    color:darkgreen;
+}
+.grid:hover img{
+    transform: scale(1.2);
+}
